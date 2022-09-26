@@ -1,0 +1,4 @@
+Benvenuto in Mastermind!
+Premi '0' per inziare una nuova partita.
+Premi '1' per leggere il regolamento.
+Premi '2' per terminare.
