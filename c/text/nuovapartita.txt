@@ -1,0 +1,4 @@
+Scegli la modalità di gioco:
+Premi '0' per giocare in modalità Classica.
+Premi '1' per giocare in modalità Personalizzata.
+Premi '2' per tornare al menù principale.

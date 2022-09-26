@@ -1,0 +1,11 @@
+Mastermind è un gioco di crittanalisi in cui il giocatore deve indovinare un codice segreto.
+Il codice è composto dalle lettere dell'alfabeto, scelte casualmente e con possibile ripetizione.
+Il giocatore dispone di vari tentativi per indovinare il codice: se ci riesce, vince la partita, altrimenti vince il computer.
+
+Dopo ogni tentativo, il computer comunica al giocatore il numero di lettere giuste al posto giusto e il numero di lettere giuste (ma al posto sbagliato).
+Per esempio, se il codice fosse 'BCAD' e il giocatore inserisse 'FEEF', il computer risponderebbe '0-0'. Se invece inserisse 'CBAF', la risposta sarebbe '1-2'.
+
+In modalità Classica, il codice è lungo 4 lettere (scelte casualmente nell'intervallo 'A-F') e il numero di tentativi disponibili è 12.
+Il giocatore, in alternativa, può scegliere di modificare le impostazioni della partita scegliendo la modalità Personalizzata.
+
+Premi un tasto qualsiasi per tornare al menù principale.
